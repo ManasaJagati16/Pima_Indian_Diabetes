@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 17 18:55:37 2020
 
-@author: srisaikrishna.k
+@author: manasa.jagati
 """
 from flask import Flask, render_template, request
 import pickle
